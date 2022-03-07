@@ -2,4 +2,4 @@
 
 HTML layout week.
 
-The case of a pastry shop, shopping cart type, is proposed.
+The case of a cakes shop, shopping cart type, is proposed.
